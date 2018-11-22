@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+from __future__ import print_function
+
 """
 Class definition of YOLO_v3 style detection model on image and video
 """
